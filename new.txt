@@ -6,3 +6,5 @@ test 3 from master branch
 
 test 3 from confilt branch
 
+test 4 from git offline
+
